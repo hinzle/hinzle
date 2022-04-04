@@ -16,10 +16,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="30" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="30" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/wolfram/wolfram-original.svg" title="Wolfram" alt="Wolfram" width="30" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="30" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5"  alt="HTML5" width="30" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css/css-original-wordmark.svg" title="CSS"  alt="CSS" width="30" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3"  alt="CSS3" width="30" height="40"/>&nbsp;
 
 </div>
 
