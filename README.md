@@ -1,7 +1,7 @@
-<h3>:mailbox:</h3>
+<!-- <h3>:mailbox:</h3> -->
 
 <div id="badges">
-    <a href = "www.linkedin.com/in/hinzle/">
+    <a href = "https://www.linkedin.com/in/hinzle/">
          <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href = "mailto:foresthensley@gmail.com">
@@ -11,7 +11,7 @@
 
 ---
 
-<h3>:man_technologist:</h3>
+<!-- <h3>:man_technologist:</h3> -->
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="30" height="40"/>&nbsp;
@@ -24,7 +24,7 @@
 
 ---
 
-<h3>:toolbox:</h3>
+<!-- <h3>:toolbox:</h3> -->
 
 ![jupyter](https://img.shields.io/badge/-Jupyter_Lab-818589?style=for-the-badge&logo=jupyter&logoColor=orange) 
 ![pandas](https://img.shields.io/badge/-Pandas-321637?style=for-the-badge&logo=pandas&logoColor=white) 
