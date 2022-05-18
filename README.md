@@ -8,6 +8,8 @@
 ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝       ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝   ╚═╝   
 ```
 
+---
+
 <div id="badges">
     <a href = "https://www.linkedin.com/in/hinzle/">
          <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,8 +20,6 @@
 </div>
 
 ---
-
-<h3>:star_struck: Favs: </h3>
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
