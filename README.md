@@ -8,8 +8,7 @@
 ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝       ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝   ╚═╝   
 ```
 
----
-
+<center>
 <div id="badges">
     <a href = "https://www.linkedin.com/in/hinzle/">
          <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,7 +17,7 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="gmail Badge"/>
     </a>
 </div>
-
+</center>
 ---
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
