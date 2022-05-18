@@ -1,26 +1,25 @@
-<p style="text-align: center;">
 
-```
+<!-- ```
 ███████╗ ██████╗ ██████╗ ███████╗███████╗████████╗    ██╗  ██╗███████╗███╗   ██╗███████╗██╗     ███████╗██╗   ██╗
 ██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔════╝╚══██╔══╝    ██║  ██║██╔════╝████╗  ██║██╔════╝██║     ██╔════╝╚██╗ ██╔╝
 █████╗  ██║   ██║██████╔╝█████╗  ███████╗   ██║       ███████║█████╗  ██╔██╗ ██║███████╗██║     █████╗   ╚████╔╝
 ██╔══╝  ██║   ██║██╔══██╗██╔══╝  ╚════██║   ██║       ██╔══██║██╔══╝  ██║╚██╗██║╚════██║██║     ██╔══╝    ╚██╔╝
 ██║     ╚██████╔╝██║  ██║███████╗███████║   ██║       ██║  ██║███████╗██║ ╚████║███████║███████╗███████╗   ██║
 ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝       ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝   ╚═╝
+``` -->
+<p style="text-align: center;">
 ```
-
-<!-- ```
 ██╗  ██╗██╗███╗   ██╗███████╗██╗     ███████╗
 ██║  ██║██║████╗  ██║╚══███╔╝██║     ██╔════╝
 ███████║██║██╔██╗ ██║  ███╔╝ ██║     █████╗
 ██╔══██║██║██║╚██╗██║ ███╔╝  ██║     ██╔══╝
 ██║  ██║██║██║ ╚████║███████╗███████╗███████╗
 ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝
-``` -->
+```
 </p>
 
 <h3 align="center">
-<a href="mailto:foresthensley@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" alt="foresthensley@gmail.com" height="30" width="40" /></a>
+<a href="mailto:foresthensley@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" alt="foresthensley@gmail.com" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/hinzle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hinzle" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16265194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16265194" height="30" width="40" /></a>
 <a href="https://kaggle.com/hinzle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hinzle" height="30" width="40" /></a>
