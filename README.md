@@ -54,12 +54,14 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
 ![jupyter](https://img.shields.io/badge/-Jupyter_Lab-818589?style=for-the-badge&logo=jupyter&logoColor=orange)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
 ![numpy](https://img.shields.io/badge/-NumPy-5092e4?style=for-the-badge&logo=numpy&logoColor=D4EFEB)
 ![plt](https://img.shields.io/badge/-Matplotlib-095090?style=for-the-badge&logo=matplotlib&logoColor=D4EFEB)
 ![scipy](https://img.shields.io/badge/-SciPy-094e8b?style=for-the-badge&logo=scipy&logoColor=white)
