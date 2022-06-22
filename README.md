@@ -30,7 +30,7 @@
 
 <div align="center">
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
-<a href="https://www.ansys.com/" target="_blank" rel="noreferrer"> <img src="https://styles.redditmedia.com/t5_2xlm9/styles/communityIcon_jh539xc5z6r61.jpg?width=256&s=0f534b0ae0fc5b94be292bc7ad6779728a2f5bb3" alt="ansys" width="50" height="50" style="position: relative;top:5px"/> </a>
+<a href="https://www.ansys.com/" target="_blank" rel="noreferrer"> <img src="https://styles.redditmedia.com/t5_2xlm9/styles/communityIcon_jh539xc5z6r61.jpg?width=256&s=0f534b0ae0fc5b94be292bc7ad6779728a2f5bb3" alt="ansys" width="50" height="50" style="position: relative;top:10px"/> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>&nbsp;
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://vmarkovtsev.github.io/pydata-2018-mallorca/pictures/sklearn_logo.svg" alt="scikit_learn" width="50" height="50" style="vertical-align:bottom"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas_mark_white.svg" alt="pandas" width="40" height="40"/></a>
