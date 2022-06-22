@@ -36,7 +36,7 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas_mark_white.svg" alt="pandas" width="40" height="40"/></a>
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="spark" width="50" height="50" style="vertical-align:bottom"/></a>&nbsp;
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcloud" width="40" height="40"/></a>&nbsp;
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" ymin="-100"/></a>&nbsp;
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>&nbsp;
 <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Adobe_Corporate_Horizontal_Red_HEX.svg" alt="adobe" width="40" height="40" style="vertical-align:bottom;margin:7px 0px"/></a>
 
 </div>
