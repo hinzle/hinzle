@@ -30,11 +30,11 @@
 
 <div align="center">
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="" height="40"/></a>
-<a href="https://www.ansys.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hinzle/wof/main/archive/Untitled-1.png" alt="ansys" width="" height="40"/></a>
+<a href="https://www.ansys.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hinzle/wof/main/archive/Untitled-1.png" alt="ansys" width="40" height=""/></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="" height="40"/></a>&nbsp;
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://vmarkovtsev.github.io/pydata-2018-mallorca/pictures/sklearn_logo.svg" alt="scikit_learn" width="50" height="50"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://vmarkovtsev.github.io/pydata-2018-mallorca/pictures/sklearn_logo.svg" alt="scikit_learn" width="50" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/static/img/pandas_mark_white.svg" alt="pandas" width="" height="40"/></a>
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="spark" width="40" height="40"/></a>&nbsp;
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="spark" width="50" height="40"/></a>&nbsp;
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcloud" width="" height="40"/></a>&nbsp;
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="" height="40"/></a>&nbsp;
 <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Adobe_Corporate_Horizontal_Red_HEX.svg" alt="adobe" width="" height="40"/></a>
