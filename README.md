@@ -44,12 +44,23 @@
 ---
 
 <div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)![Android](https://img.shields.io/badge/Android-3?style=for-the-badge&logo=android&logoColor=white)![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/></a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/></a>
+<a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/></a>
+<a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macos"/></a>
+<a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Android-3?style=for-the-badge&logo=android&logoColor=white" alt="android"/></a>
+<a href="https://www.apple.com/ios/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="ios"/></a>
 
 </div>
 
 ---
+
+<!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Android](https://img.shields.io/badge/Android-3?style=for-the-badge&logo=android&logoColor=white)
+![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) -->
 
 <!-- <a href="mailto:foresthensley@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" alt="foresthensley@gmail.com" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp; -->
 <!-- <a href="https://kaggle.com/hinzle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hinzle" height="30" width="40" /></a> -->
