@@ -30,7 +30,7 @@
 
 <div align="center">
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="" height="35"/></a>
-<a href="https://www.ansys.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hinzle/wof/main/archive/Untitled-1.png" alt="ansys" width="" height="35"/></a>
+<a href="https://www.ansys.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hinzle/hinzle/main/img/Untitled-1.png" alt="ansys" width="" height="35"/></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="" height="35"/></a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://vmarkovtsev.github.io/pydata-2018-mallorca/pictures/sklearn_logo.svg" alt="scikit_learn" width="50" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://pandas.pydata.org/static/img/pandas_mark_white.svg" alt="pandas" width="" height="40"/></a>
