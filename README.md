@@ -6,7 +6,7 @@
 ██║     ╚██████╔╝██║  ██║███████╗███████║   ██║       ██║  ██║███████╗██║ ╚████║███████║███████╗███████╗   ██║
 ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝       ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝   ╚═╝
 ``` -->
-___
+
 <div align="center">
 
 ```
@@ -17,8 +17,6 @@ ___
 ██║  ██║██║██║ ╚████║███████╗███████╗███████╗
 ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝
 ```
-
-___
 
 <div align="center">
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="" height="35"/></a>
