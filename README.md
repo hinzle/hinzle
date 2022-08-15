@@ -6,7 +6,7 @@
 ██║     ╚██████╔╝██║  ██║███████╗███████║   ██║       ██║  ██║███████╗██║ ╚████║███████║███████╗███████╗   ██║
 ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝       ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝   ╚═╝
 ``` -->
-
+___
 <div align="center">
 
 ```
@@ -18,15 +18,7 @@
 ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝
 ```
 
-</div>
-
-
-<div align="center">
-<a href="https://linkedin.com/in/hinzle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hinzle" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16265194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16265194" height="30" width="40" /></a>
-</div>
-
----
+___
 
 <div align="center">
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="" height="35"/></a>
@@ -41,7 +33,17 @@
 
 </div>
 
----
+___
+
+</div>
+
+
+<div align="center">
+<a href="https://linkedin.com/in/hinzle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hinzle" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16265194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16265194" height="30" width="40" /></a>
+</div>
+
+___
 
 <!-- <div align="center">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/></a>
